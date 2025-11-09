@@ -36,6 +36,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.PAT_TOKEN }}
-          publish_dir: ./xml
+          publish_dir: ./
           publish_branch: gh-pages
           force_orphan: true
