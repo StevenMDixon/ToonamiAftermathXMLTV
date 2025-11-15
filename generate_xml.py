@@ -7,7 +7,7 @@ import xml.dom.minidom
 
 today = datetime.now().date()
 
-url = "https://api.toonamiaftermath.com/media?scheduleName=Toonami%20Aftermath%20EST&dateString=2025-11-09T11%3A00%3A00Z&count=100"
+url = f"https://api.toonamiaftermath.com/media?scheduleName=Toonami%20Aftermath%20EST&dateString={today}T11%3A00%3A00Z&count=100"
 
 response = requests.get(url, verify=False)
 
