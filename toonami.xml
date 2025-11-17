@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="toonami">
+    <display-name>Toonami</display-name>
+  </channel>
+  <programme start="20251117105020 +0000" stop="20251117112243 +0000" channel="toonami">
+    <title>Teen Titans</title>
+    <desc>Titans Together</desc>
+    <episode-num system="xmltv_ns">64</episode-num>
+    <icon src="https://i.imgur.com/Csz1Dr1.gif"/>
+  </programme>
+  <programme start="20251117112243 +0000" stop="20251117114715 +0000" channel="toonami">
+    <title>Dragon Ball</title>
+    <desc>Dress in Flames</desc>
+    <episode-num system="xmltv_ns">149</episode-num>
+    <icon src="https://i.imgur.com/cQBxAVU.gif"/>
+  </programme>
+  <programme start="20251117114715 +0000" stop="20251117121218 +0000" channel="toonami">
+    <title>Sailor Moon</title>
+    <desc>Destiny's Arrival</desc>
+    <episode-num system="xmltv_ns">103</episode-num>
+    <icon src="https://i.imgur.com/TnI0NkT.gif"/>
+  </programme>
+  <programme start="20251117121218 +0000" stop="20251117123554 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>Out From the Broken Sword</desc>
+    <episode-num system="xmltv_ns">236</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251117123554 +0000" stop="20251117125950 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>Gotenks is Born</desc>
+    <episode-num system="xmltv_ns">237</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251117125950 +0000" stop="20251117132213 +0000" channel="toonami">
+    <title>Zoids</title>
+    <desc>The Dark Giant - The Invincible Elephander</desc>
+    <episode-num system="xmltv_ns">6</episode-num>
+    <icon src="https://i.imgur.com/2Vh8RTx.gif"/>
+  </programme>
+  <programme start="20251117132213 +0000" stop="20251117141539 +0000" channel="toonami">
+    <title>Broly - Second Coming</title>
+    <icon src="https://i.imgur.com/FlpHI1g.gif"/>
+  </programme>
+  <programme start="20251117141539 +0000" stop="20251117143635 +0000" channel="toonami">
+    <title>The Powerpuff Girls</title>
+    <desc>Criss Cross Crisis</desc>
+    <episode-num system="xmltv_ns">29</episode-num>
+    <icon src="https://i.imgur.com/8ULe6pE.gif"/>
+  </programme>
+  <programme start="20251117143635 +0000" stop="20251117144810 +0000" channel="toonami">
+    <title>Ed Edd n' Eddy</title>
+    <desc>The Ed-Touchables</desc>
+    <episode-num system="xmltv_ns">1</episode-num>
+    <icon src="https://i.imgur.com/igzgfih.gif"/>
+  </programme>
+  <programme start="20251117144810 +0000" stop="20251117145616 +0000" channel="toonami">
+    <title>2 Stupid Dogs</title>
+    <desc>Spooks a Popin'</desc>
+    <episode-num system="xmltv_ns">22</episode-num>
+    <icon src="https://i.imgur.com/wQWDVZi.gif"/>
+  </programme>
+  <programme start="20251117145616 +0000" stop="20251117150428 +0000" channel="toonami">
+    <title>Johnny Bravo</title>
+    <desc>'Twas The Night</desc>
+    <episode-num system="xmltv_ns">11</episode-num>
+    <icon src="https://i.imgur.com/duW3ILx.gif"/>
+  </programme>
+  <programme start="20251117150428 +0000" stop="20251117151302 +0000" channel="toonami">
+    <title>What A Cartoon! Show</title>
+    <desc>Larry and Steve</desc>
+    <episode-num system="xmltv_ns">33</episode-num>
+    <icon src="https://i.imgur.com/Vfe6dDZ.gif"/>
+  </programme>
+  <programme start="20251117151302 +0000" stop="20251117152244 +0000" channel="toonami">
+    <title>Cow and Chicken</title>
+    <desc>Crash Dive</desc>
+    <episode-num system="xmltv_ns">11</episode-num>
+    <icon src="https://i.imgur.com/0QYl7ZQ.gif"/>
+  </programme>
+  <programme start="20251117152244 +0000" stop="20251117154650 +0000" channel="toonami">
+    <title>Dragon Ball</title>
+    <desc>The Fire-Eater</desc>
+    <episode-num system="xmltv_ns">150</episode-num>
+    <icon src="https://i.imgur.com/cQBxAVU.gif"/>
+  </programme>
+  <programme start="20251117154650 +0000" stop="20251117161126 +0000" channel="toonami">
+    <title>Sailor Moon</title>
+    <desc>The Purity Chalice</desc>
+    <episode-num system="xmltv_ns">104</episode-num>
+    <icon src="https://i.imgur.com/TnI0NkT.gif"/>
+  </programme>
+  <programme start="20251117161126 +0000" stop="20251117163412 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>Unlikely Friendship</desc>
+    <episode-num system="xmltv_ns">238</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251117163412 +0000" stop="20251117165738 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>I Kill No More</desc>
+    <episode-num system="xmltv_ns">239</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251117165738 +0000" stop="20251117170030 +0000" channel="toonami">
+    <title>Gundam Wing</title>
+    <desc>Milliardo's Decision</desc>
+    <episode-num system="xmltv_ns">46</episode-num>
+    <icon src="https://i.imgur.com/XWp96IJ.gif"/>
+  </programme>
+  <programme start="20251117170030 +0000" stop="20251117172133 +0000" channel="toonami">
+    <title>X-Men</title>
+    <desc>Orphan's End</desc>
+    <episode-num system="xmltv_ns">44</episode-num>
+    <icon src="https://i.imgur.com/ZSZ0x1m.gif"/>
+  </programme>
+  <programme start="20251117172133 +0000" stop="20251117172444 +0000" channel="toonami">
+    <title>Mega Man</title>
+    <desc>Cold Steel</desc>
+    <episode-num system="xmltv_ns">11</episode-num>
+    <icon src="https://i.imgur.com/vhvmTlP.gif"/>
+  </programme>
+  <programme start="20251117172444 +0000" stop="20251117173936 +0000" channel="toonami">
+    <title>Space Ghost Coast to Coast</title>
+    <episode-num system="xmltv_ns">48</episode-num>
+    <icon src="https://i.imgur.com/7oi7Qxf.gif"/>
+  </programme>
+  <programme start="20251117173936 +0000" stop="20251117174615 +0000" channel="toonami">
+    <title>Mission Hill</title>
+    <desc>Andy Joins the PTA (or Great Sexpectations)</desc>
+    <episode-num system="xmltv_ns">2</episode-num>
+    <icon src="https://i.imgur.com/CWnsKHV.gif"/>
+  </programme>
+  <programme start="20251117174615 +0000" stop="20251117180535 +0000" channel="toonami">
+    <title>Men in Black: The Series</title>
+    <desc>The Quick Clone Syndrome</desc>
+    <episode-num system="xmltv_ns">14</episode-num>
+    <icon src="https://i.imgur.com/M2q5NRC.gif"/>
+  </programme>
+  <programme start="20251117180535 +0000" stop="20251117180838 +0000" channel="toonami">
+    <title>Brak Show</title>
+    <desc>The Eye</desc>
+    <episode-num system="xmltv_ns">9</episode-num>
+    <icon src="https://i.imgur.com/uGF2Olk.gif"/>
+  </programme>
+  <programme start="20251117180838 +0000" stop="20251117183336 +0000" channel="toonami">
+    <title>Street Fighter II: V</title>
+    <desc>The Beautiful Assassin</desc>
+    <episode-num system="xmltv_ns">18</episode-num>
+    <icon src="https://i.imgur.com/mQiuwRJ.gif"/>
+  </programme>
+  <programme start="20251117183336 +0000" stop="20251117185601 +0000" channel="toonami">
+    <title>Spider-Man</title>
+    <desc>Tablet of Time</desc>
+    <episode-num system="xmltv_ns">24</episode-num>
+    <icon src="https://i.imgur.com/hprZiwl.gif"/>
+  </programme>
+  <programme start="20251117185601 +0000" stop="20251117191958 +0000" channel="toonami">
+    <title>Thundercats</title>
+    <desc>Well of Doubt</desc>
+    <episode-num system="xmltv_ns">129</episode-num>
+    <icon src="https://i.imgur.com/7TOnnN5.gif"/>
+  </programme>
+  <programme start="20251117191958 +0000" stop="20251117194442 +0000" channel="toonami">
+    <title>Ronin Warriors</title>
+    <desc>Cheap Tricks</desc>
+    <episode-num system="xmltv_ns">36</episode-num>
+    <icon src="https://i.imgur.com/NYqBWaN.gif"/>
+  </programme>
+  <programme start="20251117194442 +0000" stop="20251117201006 +0000" channel="toonami">
+    <title>Mobile Suit Zeta Gundam</title>
+    <desc>Awakening</desc>
+    <episode-num system="xmltv_ns">41</episode-num>
+    <icon src="https://i.imgur.com/Tqe7v2I.gif"/>
+  </programme>
+  <programme start="20251117201006 +0000" stop="20251117203503 +0000" channel="toonami">
+    <title>Voltron: Defender of the Universe</title>
+    <desc>Mousemania</desc>
+    <episode-num system="xmltv_ns">55</episode-num>
+    <icon src="https://i.imgur.com/VUAvKNX.gif"/>
+  </programme>
+  <programme start="20251117203503 +0000" stop="20251117210000 +0000" channel="toonami">
+    <title>Beast Wars</title>
+    <desc>Crossing the Rubicon</desc>
+    <episode-num system="xmltv_ns">46</episode-num>
+    <icon src="https://i.imgur.com/1fov0VP.gif"/>
+  </programme>
+  <programme start="20251117210000 +0000" stop="20251117212919 +0000" channel="toonami">
+    <title>Pokemon</title>
+    <desc>Rhapsody in Drew</desc>
+    <episode-num system="xmltv_ns">395</episode-num>
+    <icon src="https://i.imgur.com/VfdN6pP.gif"/>
+  </programme>
+  <programme start="20251117212919 +0000" stop="20251117220130 +0000" channel="toonami">
+    <title>Teen Titans</title>
+    <desc>Things Change (Finale)</desc>
+    <episode-num system="xmltv_ns">65</episode-num>
+    <icon src="https://i.imgur.com/Csz1Dr1.gif"/>
+  </programme>
+  <programme start="20251117220130 +0000" stop="20251117222604 +0000" channel="toonami">
+    <title>Dragon Ball</title>
+    <desc>Outrageous Octagon</desc>
+    <episode-num system="xmltv_ns">151</episode-num>
+    <icon src="https://i.imgur.com/cQBxAVU.gif"/>
+  </programme>
+  <programme start="20251117222604 +0000" stop="20251117225058 +0000" channel="toonami">
+    <title>Sailor Moon</title>
+    <desc>Show Stoppers</desc>
+    <episode-num system="xmltv_ns">105</episode-num>
+    <icon src="https://i.imgur.com/TnI0NkT.gif"/>
+  </programme>
+  <programme start="20251117225058 +0000" stop="20251117231440 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>The Evil of Men</desc>
+    <episode-num system="xmltv_ns">240</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251117231440 +0000" stop="20251117233837 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>Buu Against Buu</desc>
+    <episode-num system="xmltv_ns">241</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251117233837 +0000" stop="20251118000020 +0000" channel="toonami">
+    <title>Zoids</title>
+    <desc>The Desert Gang - The Hovercargo's in Danger</desc>
+    <episode-num system="xmltv_ns">7</episode-num>
+    <icon src="https://i.imgur.com/2Vh8RTx.gif"/>
+  </programme>
+  <programme start="20251118000020 +0000" stop="20251118010736 +0000" channel="toonami">
+    <title>The Land Before Time</title>
+    <icon src="https://i.imgur.com/QRieOY1.gif"/>
+  </programme>
+  <programme start="20251118010736 +0000" stop="20251118013056 +0000" channel="toonami">
+    <title>The Powerpuff Girls</title>
+    <desc>Bubblevision / Bought and Scold</desc>
+    <episode-num system="xmltv_ns">30</episode-num>
+    <icon src="https://i.imgur.com/8ULe6pE.gif"/>
+  </programme>
+  <programme start="20251118013056 +0000" stop="20251118014217 +0000" channel="toonami">
+    <title>Ed Edd n' Eddy</title>
+    <desc>Nagged to Ed</desc>
+    <episode-num system="xmltv_ns">2</episode-num>
+    <icon src="https://i.imgur.com/igzgfih.gif"/>
+  </programme>
+  <programme start="20251118014217 +0000" stop="20251118015020 +0000" channel="toonami">
+    <title>I Am Weasel</title>
+    <desc>I.R. Gentlemans</desc>
+    <episode-num system="xmltv_ns">4</episode-num>
+    <icon src="https://i.imgur.com/b0n28MI.gif"/>
+  </programme>
+  <programme start="20251118015020 +0000" stop="20251118020130 +0000" channel="toonami">
+    <title>Dexter's Laboratory</title>
+    <desc>Dee-Deemensional</desc>
+    <episode-num system="xmltv_ns">3</episode-num>
+    <icon src="https://i.imgur.com/hMP6ON2.gif"/>
+  </programme>
+  <programme start="20251118020130 +0000" stop="20251118022526 +0000" channel="toonami">
+    <title>Dragon Ball</title>
+    <desc>Mystery of the Dark World</desc>
+    <episode-num system="xmltv_ns">152</episode-num>
+    <icon src="https://i.imgur.com/cQBxAVU.gif"/>
+  </programme>
+  <programme start="20251118022526 +0000" stop="20251118025004 +0000" channel="toonami">
+    <title>Sailor Moon</title>
+    <desc>Rini's Risky Friendship</desc>
+    <episode-num system="xmltv_ns">106</episode-num>
+    <icon src="https://i.imgur.com/TnI0NkT.gif"/>
+  </programme>
+  <programme start="20251118025004 +0000" stop="20251118031303 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>Empty Planet</desc>
+    <episode-num system="xmltv_ns">242</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251118031303 +0000" stop="20251118033624 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>Time Struggle</desc>
+    <episode-num system="xmltv_ns">243</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251118033624 +0000" stop="20251118040100 +0000" channel="toonami">
+    <title>Gundam Wing</title>
+    <desc>Collision in Space</desc>
+    <episode-num system="xmltv_ns">47</episode-num>
+    <icon src="https://i.imgur.com/XWp96IJ.gif"/>
+  </programme>
+  <programme start="20251118040100 +0000" stop="20251118041408 +0000" channel="toonami">
+    <title>Space Ghost Coast to Coast</title>
+    <episode-num system="xmltv_ns">49</episode-num>
+    <icon src="https://i.imgur.com/7oi7Qxf.gif"/>
+  </programme>
+  <programme start="20251118041408 +0000" stop="20251118043743 +0000" channel="toonami">
+    <title>Mission Hill</title>
+    <desc>Kevin's Problem (or Porno for Pyro)</desc>
+    <episode-num system="xmltv_ns">3</episode-num>
+    <icon src="https://i.imgur.com/CWnsKHV.gif"/>
+  </programme>
+  <programme start="20251118043743 +0000" stop="20251118050130 +0000" channel="toonami">
+    <title>Dr. Katz</title>
+    <desc>Old Man</desc>
+    <episode-num system="xmltv_ns">46</episode-num>
+    <icon src="https://i.imgur.com/ILKvVhz.gif"/>
+  </programme>
+  <programme start="20251118050130 +0000" stop="20251118052539 +0000" channel="toonami">
+    <title>Full Metal Alchemist</title>
+    <desc>Laws and Promises</desc>
+    <episode-num system="xmltv_ns">51</episode-num>
+    <icon src="https://i.imgur.com/3T6NatN.gif"/>
+  </programme>
+  <programme start="20251118052539 +0000" stop="20251118054951 +0000" channel="toonami">
+    <title>Yu Yu Hakusho: Ghost Files</title>
+    <desc>Genkai's Ruse</desc>
+    <episode-num system="xmltv_ns">70</episode-num>
+    <icon src="https://i.imgur.com/zLgdAie.gif"/>
+  </programme>
+  <programme start="20251118054951 +0000" stop="20251118061358 +0000" channel="toonami">
+    <title>Tenchi Universe</title>
+    <desc>No Need for Swimsuits!</desc>
+    <episode-num system="xmltv_ns">20</episode-num>
+    <icon src="https://i.imgur.com/lZ8iahD.gif"/>
+  </programme>
+  <programme start="20251118061358 +0000" stop="20251118063648 +0000" channel="toonami">
+    <title>Lupin the 3rd</title>
+    <desc>Curse of the Jumbo Juju</desc>
+    <episode-num system="xmltv_ns">14</episode-num>
+    <icon src="https://i.imgur.com/ttnXgu9.gif"/>
+  </programme>
+  <programme start="20251118063648 +0000" stop="20251118070000 +0000" channel="toonami">
+    <title>Ranma 1/2</title>
+    <desc>Ukyo's Secret Sauce - Part 1</desc>
+    <episode-num system="xmltv_ns">131</episode-num>
+    <icon src="https://i.imgur.com/GZNzBTy.gif"/>
+  </programme>
+  <programme start="20251118070000 +0000" stop="20251118072727 +0000" channel="toonami">
+    <title>Berserk</title>
+    <desc>First Battle</desc>
+    <episode-num system="xmltv_ns">3</episode-num>
+    <icon src="https://i.imgur.com/ilYReUx.gif"/>
+  </programme>
+  <programme start="20251118072727 +0000" stop="20251118074259 +0000" channel="toonami">
+    <title>12 oz Mouse</title>
+    <desc>Signals</desc>
+    <episode-num system="xmltv_ns">2</episode-num>
+    <icon src="https://i.imgur.com/VxDpdPC.gif"/>
+  </programme>
+  <programme start="20251118074259 +0000" stop="20251118080713 +0000" channel="toonami">
+    <title>Serial Experiments Lain</title>
+    <desc>Distortion</desc>
+    <episode-num system="xmltv_ns">5</episode-num>
+    <icon src="https://i.imgur.com/42cuq2g.gif"/>
+  </programme>
+  <programme start="20251118080713 +0000" stop="20251118083454 +0000" channel="toonami">
+    <title>Shin Chan</title>
+    <desc>Miscarriage Return Policy</desc>
+    <episode-num system="xmltv_ns">30</episode-num>
+    <icon src="https://i.imgur.com/XWL4wlj.gif"/>
+  </programme>
+  <programme start="20251118083454 +0000" stop="20251118090000 +0000" channel="toonami">
+    <title>Nadia: The Secret of Blue Water</title>
+    <desc>A Crowning Performance by the Gratan</desc>
+    <episode-num system="xmltv_ns">10</episode-num>
+    <icon src="https://i.imgur.com/n9ylocT.gif"/>
+  </programme>
+  <programme start="20251118090000 +0000" stop="20251118092919 +0000" channel="toonami">
+    <title>Pokemon</title>
+    <desc>Rhapsody in Drew</desc>
+    <episode-num system="xmltv_ns">395</episode-num>
+    <icon src="https://i.imgur.com/VfdN6pP.gif"/>
+  </programme>
+  <programme start="20251118092919 +0000" stop="20251118100130 +0000" channel="toonami">
+    <title>Teen Titans</title>
+    <desc>Things Change (Finale)</desc>
+    <episode-num system="xmltv_ns">65</episode-num>
+    <icon src="https://i.imgur.com/Csz1Dr1.gif"/>
+  </programme>
+  <programme start="20251118100130 +0000" stop="20251118102604 +0000" channel="toonami">
+    <title>Dragon Ball</title>
+    <desc>Outrageous Octagon</desc>
+    <episode-num system="xmltv_ns">151</episode-num>
+    <icon src="https://i.imgur.com/cQBxAVU.gif"/>
+  </programme>
+  <programme start="20251118102604 +0000" stop="20251118105058 +0000" channel="toonami">
+    <title>Sailor Moon</title>
+    <desc>Show Stoppers</desc>
+    <episode-num system="xmltv_ns">105</episode-num>
+    <icon src="https://i.imgur.com/TnI0NkT.gif"/>
+  </programme>
+  <programme start="20251118105058 +0000" stop="20251118111440 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>The Evil of Men</desc>
+    <episode-num system="xmltv_ns">240</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251118111440 +0000" stop="20251118113837 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>Buu Against Buu</desc>
+    <episode-num system="xmltv_ns">241</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251118113837 +0000" stop="20251118120020 +0000" channel="toonami">
+    <title>Zoids</title>
+    <desc>The Desert Gang - The Hovercargo's in Danger</desc>
+    <episode-num system="xmltv_ns">7</episode-num>
+    <icon src="https://i.imgur.com/2Vh8RTx.gif"/>
+  </programme>
+  <programme start="20251118120020 +0000" stop="20251118130736 +0000" channel="toonami">
+    <title>The Land Before Time</title>
+    <icon src="https://i.imgur.com/QRieOY1.gif"/>
+  </programme>
+  <programme start="20251118130736 +0000" stop="20251118133056 +0000" channel="toonami">
+    <title>The Powerpuff Girls</title>
+    <desc>Bubblevision / Bought and Scold</desc>
+    <episode-num system="xmltv_ns">30</episode-num>
+    <icon src="https://i.imgur.com/8ULe6pE.gif"/>
+  </programme>
+  <programme start="20251118133056 +0000" stop="20251118134217 +0000" channel="toonami">
+    <title>Ed Edd n' Eddy</title>
+    <desc>Nagged to Ed</desc>
+    <episode-num system="xmltv_ns">2</episode-num>
+    <icon src="https://i.imgur.com/igzgfih.gif"/>
+  </programme>
+  <programme start="20251118134217 +0000" stop="20251118135020 +0000" channel="toonami">
+    <title>I Am Weasel</title>
+    <desc>I.R. Gentlemans</desc>
+    <episode-num system="xmltv_ns">4</episode-num>
+    <icon src="https://i.imgur.com/b0n28MI.gif"/>
+  </programme>
+  <programme start="20251118135020 +0000" stop="20251118140130 +0000" channel="toonami">
+    <title>Dexter's Laboratory</title>
+    <desc>Dee-Deemensional</desc>
+    <episode-num system="xmltv_ns">3</episode-num>
+    <icon src="https://i.imgur.com/hMP6ON2.gif"/>
+  </programme>
+  <programme start="20251118140130 +0000" stop="20251118142526 +0000" channel="toonami">
+    <title>Dragon Ball</title>
+    <desc>Mystery of the Dark World</desc>
+    <episode-num system="xmltv_ns">152</episode-num>
+    <icon src="https://i.imgur.com/cQBxAVU.gif"/>
+  </programme>
+  <programme start="20251118142526 +0000" stop="20251118145004 +0000" channel="toonami">
+    <title>Sailor Moon</title>
+    <desc>Rini's Risky Friendship</desc>
+    <episode-num system="xmltv_ns">106</episode-num>
+    <icon src="https://i.imgur.com/TnI0NkT.gif"/>
+  </programme>
+  <programme start="20251118145004 +0000" stop="20251118151303 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>Empty Planet</desc>
+    <episode-num system="xmltv_ns">242</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251118151303 +0000" stop="20251118153624 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>Time Struggle</desc>
+    <episode-num system="xmltv_ns">243</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251118153624 +0000" stop="20251118160100 +0000" channel="toonami">
+    <title>Gundam Wing</title>
+    <desc>Collision in Space</desc>
+    <episode-num system="xmltv_ns">47</episode-num>
+    <icon src="https://i.imgur.com/XWp96IJ.gif"/>
+  </programme>
+  <programme start="20251118160100 +0000" stop="20251118161408 +0000" channel="toonami">
+    <title>Space Ghost Coast to Coast</title>
+    <episode-num system="xmltv_ns">49</episode-num>
+    <icon src="https://i.imgur.com/7oi7Qxf.gif"/>
+  </programme>
+  <programme start="20251118161408 +0000" stop="20251118163743 +0000" channel="toonami">
+    <title>Mission Hill</title>
+    <desc>Kevin's Problem (or Porno for Pyro)</desc>
+    <episode-num system="xmltv_ns">3</episode-num>
+    <icon src="https://i.imgur.com/CWnsKHV.gif"/>
+  </programme>
+  <programme start="20251118163743 +0000" stop="20251118170030 +0000" channel="toonami">
+    <title>Dr. Katz</title>
+    <desc>Old Man</desc>
+    <episode-num system="xmltv_ns">46</episode-num>
+    <icon src="https://i.imgur.com/ILKvVhz.gif"/>
+  </programme>
+  <programme start="20251118170030 +0000" stop="20251118172137 +0000" channel="toonami">
+    <title>X-Men</title>
+    <desc>Juggernaut Returns</desc>
+    <episode-num system="xmltv_ns">45</episode-num>
+    <icon src="https://i.imgur.com/ZSZ0x1m.gif"/>
+  </programme>
+  <programme start="20251118172137 +0000" stop="20251118174620 +0000" channel="toonami">
+    <title>Mega Man</title>
+    <desc>Future Shock</desc>
+    <episode-num system="xmltv_ns">12</episode-num>
+    <icon src="https://i.imgur.com/vhvmTlP.gif"/>
+  </programme>
+  <programme start="20251118174620 +0000" stop="20251118180845 +0000" channel="toonami">
+    <title>Men in Black: The Series</title>
+    <desc>The Little Big Man Syndrome</desc>
+    <episode-num system="xmltv_ns">15</episode-num>
+    <icon src="https://i.imgur.com/M2q5NRC.gif"/>
+  </programme>
+  <programme start="20251118180845 +0000" stop="20251118183338 +0000" channel="toonami">
+    <title>Street Fighter II: V</title>
+    <desc>Special Orders to Iron Men</desc>
+    <episode-num system="xmltv_ns">19</episode-num>
+    <icon src="https://i.imgur.com/mQiuwRJ.gif"/>
+  </programme>
+  <programme start="20251118183338 +0000" stop="20251118185530 +0000" channel="toonami">
+    <title>Spider-Man</title>
+    <desc>Ravages of Time</desc>
+    <episode-num system="xmltv_ns">25</episode-num>
+    <icon src="https://i.imgur.com/hprZiwl.gif"/>
+  </programme>
+  <programme start="20251118185530 +0000" stop="20251118191914 +0000" channel="toonami">
+    <title>Silverhawks</title>
+    <desc>The Amber Amplifier</desc>
+    <episode-num system="xmltv_ns">31</episode-num>
+    <icon src="https://i.imgur.com/dpR9jOG.gif"/>
+  </programme>
+  <programme start="20251118191914 +0000" stop="20251118194349 +0000" channel="toonami">
+    <title>Ronin Warriors</title>
+    <desc>Anubis' Armor Revived</desc>
+    <episode-num system="xmltv_ns">37</episode-num>
+    <icon src="https://i.imgur.com/NYqBWaN.gif"/>
+  </programme>
+  <programme start="20251118194349 +0000" stop="20251118200858 +0000" channel="toonami">
+    <title>Mobile Suit Zeta Gundam</title>
+    <desc>Goodbye, Rosammy</desc>
+    <episode-num system="xmltv_ns">42</episode-num>
+    <icon src="https://i.imgur.com/Tqe7v2I.gif"/>
+  </programme>
+  <programme start="20251118200858 +0000" stop="20251118203340 +0000" channel="toonami">
+    <title>Voltron: Defender of the Universe</title>
+    <desc>The Shell Game</desc>
+    <episode-num system="xmltv_ns">56</episode-num>
+    <icon src="https://i.imgur.com/VUAvKNX.gif"/>
+  </programme>
+  <programme start="20251118203340 +0000" stop="20251118210000 +0000" channel="toonami">
+    <title>Beast Wars</title>
+    <desc>Master Blaster</desc>
+    <episode-num system="xmltv_ns">47</episode-num>
+    <icon src="https://i.imgur.com/1fov0VP.gif"/>
+  </programme>
+  <programme start="20251118210000 +0000" stop="20251118212939 +0000" channel="toonami">
+    <title>Pokemon</title>
+    <desc>Island Time</desc>
+    <episode-num system="xmltv_ns">396</episode-num>
+    <icon src="https://i.imgur.com/VfdN6pP.gif"/>
+  </programme>
+  <programme start="20251118212939 +0000" stop="20251118220130 +0000" channel="toonami">
+    <title>Batman: The Animated Series</title>
+    <desc>Appointment in Crime Alley</desc>
+    <episode-num system="xmltv_ns">5</episode-num>
+    <icon src="https://i.imgur.com/nygJi6C.gif"/>
+  </programme>
+  <programme start="20251118220130 +0000" stop="20251118222603 +0000" channel="toonami">
+    <title>Dragon Ball</title>
+    <desc>The End, the Beginning</desc>
+    <episode-num system="xmltv_ns">153</episode-num>
+    <icon src="https://i.imgur.com/cQBxAVU.gif"/>
+  </programme>
+  <programme start="20251118222603 +0000" stop="20251118225103 +0000" channel="toonami">
+    <title>Sailor Moon</title>
+    <desc>Mimet's Mess</desc>
+    <episode-num system="xmltv_ns">107</episode-num>
+    <icon src="https://i.imgur.com/TnI0NkT.gif"/>
+  </programme>
+  <programme start="20251118225103 +0000" stop="20251118231444 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>Super Moves of Gotenks</desc>
+    <episode-num system="xmltv_ns">244</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251118231444 +0000" stop="20251118233837 +0000" channel="toonami">
+    <title>Dragon Ball Z</title>
+    <desc>Trapped in Forever</desc>
+    <episode-num system="xmltv_ns">245</episode-num>
+    <icon src="https://i.imgur.com/4qfad4o.gif"/>
+  </programme>
+  <programme start="20251118233837 +0000" stop="20251119000029 +0000" channel="toonami">
+    <title>Zoids</title>
+    <desc>Invasion of the Fierce Tigers - Transform to Zero Schneider</desc>
+    <episode-num system="xmltv_ns">8</episode-num>
+    <icon src="https://i.imgur.com/2Vh8RTx.gif"/>
+  </programme>
+  <programme start="20251119000029 +0000" stop="20251119003032 +0000" channel="toonami">
+    <title>Samurai Jack</title>
+    <desc>Jack in Space</desc>
+    <episode-num system="xmltv_ns">5</episode-num>
+    <icon src="https://i.imgur.com/twLpmyP.gif"/>
+  </programme>
+  <programme start="20251119003032 +0000" stop="20251119004232 +0000" channel="toonami">
+    <title>Samurai Jack</title>
+    <desc>Jack and the Warrior Woman</desc>
+    <episode-num system="xmltv_ns">6</episode-num>
+    <icon src="https://i.imgur.com/twLpmyP.gif"/>
+  </programme>
+</tv>
