@@ -38,7 +38,7 @@ WEEKDAYS = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunda
 
 class RewindChannel:
     def __init__(self):
-        pass
+        self.TIME_RANGE_RE = re.compile(r'^\s*(?P<start>[^-]+?)\s*-\s*(?P<end>.+?)\s*$')
 
     def handle_conversion(self):
         self.main()
@@ -79,9 +79,9 @@ class RewindChannel:
                 return i, mapping, time_col
         raise RuntimeError("Could not find header row with weekday names. Check CSV layout.")
 
-    TIME_RANGE_RE = re.compile(r'^\s*(?P<start>[^-]+?)\s*-\s*(?P<end>.+?)\s*$')
+        
 
-    def parse_time_str(t_str):
+    def parse_time_str(self, t_str):
         """
         Parse a time like:
         "12:00 AM", "3:50PM", "12AM", "4 PM", "1:00:30PM"
@@ -130,7 +130,7 @@ class RewindChannel:
             time_cell = row[time_col].strip() if row[time_col] else ""
             if not time_cell:
                 continue
-            m = TIME_RANGE_RE.match(time_cell)
+            m = self.TIME_RANGE_RE.match(time_cell)
             if not m:
                 # skip rows that are not time ranges
                 continue
