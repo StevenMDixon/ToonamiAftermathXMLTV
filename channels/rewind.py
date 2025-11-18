@@ -77,7 +77,14 @@ class RewindChannel:
                 show_title = str(day_shows[start_str]).strip()
 
                 start_time = datetime.strptime(start_str, "%H:%M")
-                start_dt = day.replace(hour=start_time.hour, minute=start_time.minute, second=0, microsecond=0)
+
+                start_dt = day.replace(
+                    hour=start_time.hour,
+                    minute=start_time.minute,
+                    second=0,
+                    microsecond=0,
+                    tzinfo=tz
+                )
 
                 # Determine stop time
                 if i + 1 < len(sorted_times):
