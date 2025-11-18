@@ -48,7 +48,7 @@ class RewindChannel:
         # Helper: build XMLTV datetime
         # -----------------------------
         def xmltv_dt(dt: datetime):
-            return dt.strftime("%Y%m%d%H%M%S %z")
+            return dt.astimezone(ZoneInfo("UTC")).strftime("%Y%m%d%H%M%S +0000")
 
         # -----------------------------
         # Determine correct weekday order
