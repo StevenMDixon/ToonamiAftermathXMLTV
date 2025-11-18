@@ -1,9 +1,5 @@
-import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
-import os
 import requests
-import json
-import xml.dom.minidom
 
 from utils.showDTO import ShowDTO
 

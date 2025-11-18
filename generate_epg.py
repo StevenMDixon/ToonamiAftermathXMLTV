@@ -11,7 +11,10 @@ folder_path = "./xml_schedules"  # Define the path for the folder to be created
 os.makedirs(folder_path, exist_ok=True)
 
 
-channels = [RewindChannel(XMLGenerator), AftermathChannel(XMLGenerator)]
+channels = [
+    RewindChannel(XMLGenerator),
+    AftermathChannel(XMLGenerator)
+]
 
 for channel in channels:
     channel.handle_conversion()

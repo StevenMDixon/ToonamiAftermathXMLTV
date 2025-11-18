@@ -53,46 +53,84 @@ class RewindChannel:
                 print(f"Warning: No schedule for {day_name}, skipping.")
                 continue
 
+            current_day = datetime.now() + timedelta(days=day_offset)
+
             day_shows = schedule[day_name]
             sorted_times = sorted(day_shows.keys(), key=lambda t: datetime.strptime(t, "%H:%M"))
 
             for i, start_str in enumerate(sorted_times):
-                show_title = str(day_shows[start_str]).strip()
+                show = day_shows[start_str]
 
-                start_time = datetime.strptime(start_str, "%H:%M")
+                show_title = str(show).strip()
 
-                start_dt_naive = day.replace(
-                    hour=start_time.hour,
-                    minute=start_time.minute,
-                    second=0,
-                    microsecond=0
-                )
-                # localize to the source timezone (America/Chicago)
-                start_dt = start_dt_naive.replace(tzinfo=SOURCE_TZ)
+                schedule_time = datetime.strptime(start_str, "%H:%M")
 
-                # Determine stop time
-                if i + 1 < len(sorted_times):
+                start_time = datetime(current_day.year, current_day.month, current_day.day,
+                                      schedule_time.hour, schedule_time.minute, 0, 0)
+                
+                stop_time = None
+
+                if(i < len(sorted_times) - 1):
                     next_start_str = sorted_times[i + 1]
-                    next_t = datetime.strptime(next_start_str, "%H:%M")
-                    
-                    stop_dt_naive = day.replace(hour=next_t.hour, minute=next_t.minute, second=0, microsecond=0)
-                    stop_dt = stop_dt_naive.replace(tzinfo=SOURCE_TZ)
-
-                    if stop_dt <= start_dt:
-                        stop_dt += timedelta(days=1)  # wraps past midnight
+                    next_schedule_time = datetime.strptime(next_start_str, "%H:%M")
+                    stop_time = datetime(current_day.year, current_day.month, current_day.day,
+                                         next_schedule_time.hour, next_schedule_time.minute, 0, 0)
                 else:
-                    stop_dt = start_dt + timedelta(minutes=30)  # fallback duration
-
+                    end_time = datetime.now() + timedelta(days=day_offset)
+                    stop_time = end_time.replace(
+                        hour=23,
+                        minute=59,
+                    )
+                
                 converted_shows.append(
                     ShowDTO(
                         name=show_title,
-                        startDate=self.generator.iso_to_xmltv(start_dt.astimezone(tz).isoformat()),
-                        endDate=self.generator.iso_to_xmltv(stop_dt.astimezone(tz).isoformat()),
+                        startDate=self.generator.iso_to_xmltv(start_time.isoformat()),
+                        endDate=self.generator.iso_to_xmltv(stop_time.isoformat()),
                         description=None,
                         episodeNumber=None,
                         iconUrl=None
                     )
                 )
+                
+                
+            #     show_title = str(day_shows[start_str]).strip()
+
+            #     start_time = datetime.strptime(start_str, "%H:%M")
+
+            #     start_dt_naive = day.replace(
+            #         hour=start_time.hour,
+            #         minute=start_time.minute,
+            #         second=0,
+            #         microsecond=0
+            #     )
+            #     # localize to the source timezone (America/Chicago)
+            #     start_dt = start_dt_naive.replace(tzinfo=SOURCE_TZ)
+
+            #     # Determine stop time
+            #     if i + 1 < len(sorted_times):
+            #         next_start_str = sorted_times[i + 1]
+            #         next_t = datetime.strptime(next_start_str, "%H:%M")
+
+            #         stop_dt_naive = day.replace(hour=next_t.hour, minute=next_t.minute, second=0, microsecond=0)
+            #         stop_dt = stop_dt_naive.replace(tzinfo=SOURCE_TZ)
+            #         print (f"{start_dt} is for Computed stop time for {show_title} as {stop_dt} based on next show.")
+
+            #         if stop_dt <= start_dt:
+            #             stop_dt += timedelta(days=1)  # wraps past midnight
+            #     else:
+            #         stop_dt = start_dt + timedelta(minutes=30)  # fallback duration
+
+            #     converted_shows.append(
+            #         ShowDTO(
+            #             name=show_title,
+            #             startDate=self.generator.iso_to_xmltv(start_dt.astimezone(tz).isoformat()),
+            #             endDate=self.generator.iso_to_xmltv(stop_dt.astimezone(tz).isoformat()),
+            #             description=None,
+            #             episodeNumber=None,
+            #             iconUrl=None
+            #         )
+            #     )
 
         # -----------------------------
         self.generator.convert_to_xml(self, converted_shows)
