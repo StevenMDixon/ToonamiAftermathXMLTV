@@ -86,13 +86,15 @@ class RewindChannel:
                 # et = stop_time.astimezone(tz)
 
                 
-                ShowDTO(
+                converted_shows.append(
+                    ShowDTO(
                     name=show_title,
                     startDate=self.generator.iso_to_xmltv(start_time.astimezone(tz).isoformat()),
                     endDate=self.generator.iso_to_xmltv(stop_time.astimezone(tz).isoformat()),
                     description=None,
                     episodeNumber=None,
                     iconUrl=None
+                )
                 )
                 
                 
