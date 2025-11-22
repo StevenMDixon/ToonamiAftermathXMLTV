@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="toonami">
+    <display-name>Toonami</display-name>
+  </channel>
+  <programme start="20251122110000 +0000" stop="20251122111215 +0000" channel="toonami">
+    <title>Spider-Man</title>
+    <desc>Spider-Man Battles the Molemen Part 1</desc>
+    <episode-num system="xmltv_ns">51</episode-num>
+    <icon src="https://i.imgur.com/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20251122111215 +0000" stop="20251122112440 +0000" channel="toonami">
+    <title>Spider-Man</title>
+    <desc>Spider-Man Battles the Molemen Part 2</desc>
+    <episode-num system="xmltv_ns">52</episode-num>
+    <icon src="https://i.imgur.com/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20251122112440 +0000" stop="20251122113640 +0000" channel="toonami">
+    <title>Spider-Man</title>
+    <desc>Phantom from the Depths of Time Part 1</desc>
+    <episode-num system="xmltv_ns">53</episode-num>
+    <icon src="https://i.imgur.com/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20251122113640 +0000" stop="20251122115017 +0000" channel="toonami">
+    <title>Spider-Man</title>
+    <desc>Phantom from the Depths of Time Part 2</desc>
+    <episode-num system="xmltv_ns">54</episode-num>
+    <icon src="https://i.imgur.com/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20251122115017 +0000" stop="20251122120927 +0000" channel="toonami">
+    <title>Hulk</title>
+    <desc>Micro Monsters, The Lair of the Leader, To Live Again</desc>
+    <episode-num system="xmltv_ns">5</episode-num>
+    <icon src="https://i.imgur.com/4V4izFA.gif"/>
+  </programme>
+  <programme start="20251122120927 +0000" stop="20251122122839 +0000" channel="toonami">
+    <title>Captain America</title>
+    <desc>Zemo and his Masters of Evil, Zemo Strikes, The Fury of Zemo</desc>
+    <episode-num system="xmltv_ns">5</episode-num>
+    <icon src="https://i.imgur.com/rz9XhcO.gif"/>
+  </programme>
+  <programme start="20251122122839 +0000" stop="20251122123639 +0000" channel="toonami">
+    <title>Birdman</title>
+    <desc>Train Trek</desc>
+    <episode-num system="xmltv_ns">21</episode-num>
+    <icon src="https://i.imgur.com/cAylbtL.gif"/>
+  </programme>
+  <programme start="20251122123639 +0000" stop="20251122124531 +0000" channel="toonami">
+    <title>Birdman</title>
+    <desc>Number One</desc>
+    <episode-num system="xmltv_ns">22</episode-num>
+    <icon src="https://i.imgur.com/cAylbtL.gif"/>
+  </programme>
+  <programme start="20251122124531 +0000" stop="20251122125340 +0000" channel="toonami">
+    <title>Space Ghost</title>
+    <desc>The Schemer</desc>
+    <episode-num system="xmltv_ns">13</episode-num>
+    <icon src="https://i.imgur.com/TKjCB1Z.gif"/>
+  </programme>
+  <programme start="20251122125340 +0000" stop="20251122130000 +0000" channel="toonami">
+    <title>Space Ghost</title>
+    <desc>The Evil Collector</desc>
+    <episode-num system="xmltv_ns">14</episode-num>
+    <icon src="https://i.imgur.com/TKjCB1Z.gif"/>
+  </programme>
+  <programme start="20251122130000 +0000" stop="20251122132515 +0000" channel="toonami">
+    <title>Earthworm Jim</title>
+    <desc>Upholstered Peril</desc>
+    <episode-num system="xmltv_ns">6</episode-num>
+    <icon src="https://i.imgur.com/sQB7OBu.gif"/>
+  </programme>
+  <programme start="20251122132515 +0000" stop="20251122135015 +0000" channel="toonami">
+    <title>Static Shock</title>
+    <desc>She-Back</desc>
+    <episode-num system="xmltv_ns">41</episode-num>
+    <icon src="https://i.imgur.com/riIBi2T.gif"/>
+  </programme>
+  <programme start="20251122135015 +0000" stop="20251122141554 +0000" channel="toonami">
+    <title>Animaniacs</title>
+    <desc>Useless Facts / The Senses / The World Can Wait / Kiki's Kitten</desc>
+    <episode-num system="xmltv_ns">44</episode-num>
+    <icon src="https://i.imgur.com/Iahwehb.gif"/>
+  </programme>
+  <programme start="20251122141554 +0000" stop="20251122143850 +0000" channel="toonami">
+    <title>The Tick</title>
+    <desc>The Tick vs. Chairface Chippendale</desc>
+    <episode-num system="xmltv_ns">2</episode-num>
+    <icon src="https://i.imgur.com/6LCtAKv.gif"/>
+  </programme>
+  <programme start="20251122143850 +0000" stop="20251122150045 +0000" channel="toonami">
+    <title>Freakazoid</title>
+    <desc>The Freakazoid</desc>
+    <episode-num system="xmltv_ns">15</episode-num>
+    <icon src="https://i.imgur.com/qaSxxx8.gif"/>
+  </programme>
+  <programme start="20251122150045 +0000" stop="20251122152522 +0000" channel="toonami">
+    <title>Digimon</title>
+    <desc>Duel of the WarGreymon</desc>
+    <episode-num system="xmltv_ns">100</episode-num>
+    <icon src="https://i.imgur.com/rM5a4vc.gif"/>
+  </programme>
+  <programme start="20251122152522 +0000" stop="20251122154941 +0000" channel="toonami">
+    <title>Monster Rancher</title>
+    <desc>The Sand Assassin, Renocraft</desc>
+    <episode-num system="xmltv_ns">43</episode-num>
+    <icon src="https://i.imgur.com/8Q2xfrx.gif"/>
+  </programme>
+  <programme start="20251122154941 +0000" stop="20251122161411 +0000" channel="toonami">
+    <title>Yu-Gi-Oh!</title>
+    <desc>Battle for the Bronze (Part 1)</desc>
+    <episode-num system="xmltv_ns">135</episode-num>
+    <icon src="https://i.imgur.com/F5wIvS0.gif"/>
+  </programme>
+  <programme start="20251122161411 +0000" stop="20251122163829 +0000" channel="toonami">
+    <title>Roughnecks: Starship Troopers Chronicles</title>
+    <desc>Trackers</desc>
+    <episode-num system="xmltv_ns">31</episode-num>
+    <icon src="https://i.imgur.com/aRS8xZQ.gif"/>
+  </programme>
+  <programme start="20251122163829 +0000" stop="20251122170128 +0000" channel="toonami">
+    <title>Beast Machines</title>
+    <desc>A Wolf in the Fold</desc>
+    <episode-num system="xmltv_ns">18</episode-num>
+    <icon src="https://i.imgur.com/9E7F997.gif"/>
+  </programme>
+  <programme start="20251122170128 +0000" stop="20251122172337 +0000" channel="toonami">
+    <title>The Real Adventures of Jonny Quest</title>
+    <desc>The Mummies of Malenque</desc>
+    <episode-num system="xmltv_ns">18</episode-num>
+    <icon src="https://i.imgur.com/XOp3nEP.gif"/>
+  </programme>
+  <programme start="20251122172337 +0000" stop="20251122174542 +0000" channel="toonami">
+    <title>The Real Adventures of Jonny Quest</title>
+    <desc>Bloodlines</desc>
+    <episode-num system="xmltv_ns">19</episode-num>
+    <icon src="https://i.imgur.com/XOp3nEP.gif"/>
+  </programme>
+  <programme start="20251122174542 +0000" stop="20251122181220 +0000" channel="toonami">
+    <title>Jonny Quest</title>
+    <desc>Skull and Double Crossbones</desc>
+    <episode-num system="xmltv_ns">11</episode-num>
+    <icon src="https://i.imgur.com/1LkPW7k.gif"/>
+  </programme>
+  <programme start="20251122181220 +0000" stop="20251122183539 +0000" channel="toonami">
+    <title>Scooby Doo, Where Are You!</title>
+    <desc>That's Snow Ghost</desc>
+    <episode-num system="xmltv_ns">17</episode-num>
+    <icon src="https://i.imgur.com/i1ZedHL.gif"/>
+  </programme>
+  <programme start="20251122183539 +0000" stop="20251122190030 +0000" channel="toonami">
+    <title>Scooby Doo, Where Are You!</title>
+    <desc>Nowhere to Hyde</desc>
+    <episode-num system="xmltv_ns">18</episode-num>
+    <icon src="https://i.imgur.com/i1ZedHL.gif"/>
+  </programme>
+  <programme start="20251122190030 +0000" stop="20251122192419 +0000" channel="toonami">
+    <title>Superman</title>
+    <desc>A Little Piece of Home</desc>
+    <episode-num system="xmltv_ns">5</episode-num>
+    <icon src="https://i.imgur.com/hUYhp5I.gif"/>
+  </programme>
+  <programme start="20251122192419 +0000" stop="20251122194844 +0000" channel="toonami">
+    <title>Batman: The Animated Series</title>
+    <desc>Nothing to Fear</desc>
+    <episode-num system="xmltv_ns">7</episode-num>
+    <icon src="https://i.imgur.com/nygJi6C.gif"/>
+  </programme>
+  <programme start="20251122194844 +0000" stop="20251122201144 +0000" channel="toonami">
+    <title>Batman Beyond</title>
+    <desc>The Last Resort</desc>
+    <episode-num system="xmltv_ns">29</episode-num>
+    <icon src="https://i.imgur.com/4bXZkXc.gif"/>
+  </programme>
+  <programme start="20251122201144 +0000" stop="20251122203700 +0000" channel="toonami">
+    <title>Justice League</title>
+    <desc>Ancient History</desc>
+    <episode-num system="xmltv_ns">89</episode-num>
+    <icon src="https://i.imgur.com/IAoWUJN.gif"/>
+  </programme>
+  <programme start="20251122203700 +0000" stop="20251122210000 +0000" channel="toonami">
+    <title>Justice League</title>
+    <desc>Alive!</desc>
+    <episode-num system="xmltv_ns">90</episode-num>
+    <icon src="https://i.imgur.com/IAoWUJN.gif"/>
+  </programme>
+  <programme start="20251122210000 +0000" stop="20251122212717 +0000" channel="toonami">
+    <title>GaoGaiGar</title>
+    <desc>Blue and Red</desc>
+    <episode-num system="xmltv_ns">5</episode-num>
+    <icon src="https://i.imgur.com/5rCBrb9.gif"/>
+  </programme>
+  <programme start="20251122212717 +0000" stop="20251122215251 +0000" channel="toonami">
+    <title>Big O</title>
+    <desc>Beck Comes Back</desc>
+    <episode-num system="xmltv_ns">9</episode-num>
+    <icon src="https://i.imgur.com/0JJXLwO.gif"/>
+  </programme>
+  <programme start="20251122215251 +0000" stop="20251122222023 +0000" channel="toonami">
+    <title>Patlabor: The Mobile Police</title>
+    <desc>Labor and Flower</desc>
+    <episode-num system="xmltv_ns">22</episode-num>
+    <icon src="https://i.imgur.com/lP8LKsc.gif"/>
+  </programme>
+  <programme start="20251122222023 +0000" stop="20251122225040 +0000" channel="toonami">
+    <title>Mobile Suit Gundam 0080: War in the Pocket</title>
+    <desc>And at the End of the Rainbow?</desc>
+    <episode-num system="xmltv_ns">3</episode-num>
+    <icon src="https://i.imgur.com/1wd7Qjr.gif"/>
+  </programme>
+  <programme start="20251122225040 +0000" stop="20251122231800 +0000" channel="toonami">
+    <title>Mobile Suit Gundam 0080: War in the Pocket</title>
+    <desc>Over the River and Through the Woods</desc>
+    <episode-num system="xmltv_ns">4</episode-num>
+    <icon src="https://i.imgur.com/1wd7Qjr.gif"/>
+  </programme>
+  <programme start="20251122231800 +0000" stop="20251122234023 +0000" channel="toonami">
+    <title>Celebrity Deathmatch</title>
+    <desc>Battle of the Boys with Toys</desc>
+    <episode-num system="xmltv_ns">13</episode-num>
+    <icon src="https://i.imgur.com/asKW14D.gif"/>
+  </programme>
+  <programme start="20251122234023 +0000" stop="20251123000712 +0000" channel="toonami">
+    <title>Initial D</title>
+    <desc>A New Challenger</desc>
+    <episode-num system="xmltv_ns">6</episode-num>
+    <icon src="https://i.imgur.com/WzNYM0K.gif"/>
+  </programme>
+  <programme start="20251123000712 +0000" stop="20251123003410 +0000" channel="toonami">
+    <title>Initial D</title>
+    <desc>Pride of a Racer</desc>
+    <episode-num system="xmltv_ns">7</episode-num>
+    <icon src="https://i.imgur.com/WzNYM0K.gif"/>
+  </programme>
+  <programme start="20251123003410 +0000" stop="20251123010006 +0000" channel="toonami">
+    <title>Fighting Spirit</title>
+    <desc>The Speed Star</desc>
+    <episode-num system="xmltv_ns">43</episode-num>
+    <icon src="https://i.imgur.com/q17pj8O.gif"/>
+  </programme>
+  <programme start="20251123010006 +0000" stop="20251123012435 +0000" channel="toonami">
+    <title>Fighting Spirit</title>
+    <desc>Blind Spot in the Ring</desc>
+    <episode-num system="xmltv_ns">44</episode-num>
+    <icon src="https://i.imgur.com/q17pj8O.gif"/>
+  </programme>
+  <programme start="20251123012435 +0000" stop="20251123014931 +0000" channel="toonami">
+    <title>Powerpuff Girls Z</title>
+    <desc>Quack-Quack Attack / Veggie Vengeance</desc>
+    <episode-num system="xmltv_ns">21</episode-num>
+    <icon src="https://i.imgur.com/8hApzOA.gif"/>
+  </programme>
+  <programme start="20251123014931 +0000" stop="20251123021421 +0000" channel="toonami">
+    <title>Powerpuff Girls Z</title>
+    <desc>Pastry Puff Panic</desc>
+    <episode-num system="xmltv_ns">22</episode-num>
+    <icon src="https://i.imgur.com/8hApzOA.gif"/>
+  </programme>
+  <programme start="20251123021421 +0000" stop="20251123024231 +0000" channel="toonami">
+    <title>Ghost in the Shell: Stand Alone Complex</title>
+    <desc>DI: Face - MAKE UP</desc>
+    <episode-num system="xmltv_ns">39</episode-num>
+    <icon src="https://i.imgur.com/19QluZh.gif"/>
+  </programme>
+  <programme start="20251123024231 +0000" stop="20251123031015 +0000" channel="toonami">
+    <title>Ghost in the Shell: Stand Alone Complex</title>
+    <desc>DI: Beware the Left Eye - POKER FACE</desc>
+    <episode-num system="xmltv_ns">40</episode-num>
+    <icon src="https://i.imgur.com/19QluZh.gif"/>
+  </programme>
+  <programme start="20251123031015 +0000" stop="20251123033639 +0000" channel="toonami">
+    <title>Samurai Champloo</title>
+    <desc>Evanescent Encounter (Part 1)</desc>
+    <episode-num system="xmltv_ns">24</episode-num>
+    <icon src="https://i.imgur.com/bENqNkY.gif"/>
+  </programme>
+  <programme start="20251123033639 +0000" stop="20251123040100 +0000" channel="toonami">
+    <title>Samurai Champloo</title>
+    <desc>Evanescent Encounter (Part 2)</desc>
+    <episode-num system="xmltv_ns">25</episode-num>
+    <icon src="https://i.imgur.com/bENqNkY.gif"/>
+  </programme>
+  <programme start="20251123040100 +0000" stop="20251123050610 +0000" channel="toonami">
+    <title>Interstella 5555</title>
+    <desc>No description available.</desc>
+    <icon src="https://i.imgur.com/ODBlBOU.gif"/>
+  </programme>
+  <programme start="20251123050610 +0000" stop="20251123074151 +0000" channel="toonami">
+    <title>Rifftrax - Harry Potter 6 And The Half-Blood Prince</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20251123074151 +0000" stop="20251123090031 +0000" channel="toonami">
+    <title>Rifftrax - Missle to the Moon</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20251123090031 +0000" stop="20251123103251 +0000" channel="toonami">
+    <title>MST3K - S06E18 - High School Big Shot</title>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20251123103251 +0000" stop="20251123105054 +0000" channel="toonami">
+    <title/>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20251123105054 +0000" stop="20251123110000 +0000" channel="toonami">
+    <title/>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20251123110000 +0000" stop="20251123110840 +0000" channel="toonami">
+    <title>Spider-Man</title>
+    <desc>The Evil Sorcerer Part 1</desc>
+    <episode-num system="xmltv_ns">55</episode-num>
+    <icon src="https://i.imgur.com/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20251123110840 +0000" stop="20251123111213 +0000" channel="toonami">
+    <title/>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20251123111213 +0000" stop="20251123112329 +0000" channel="toonami">
+    <title>Spider-Man</title>
+    <desc>The Evil Sorcerer Part 2</desc>
+    <episode-num system="xmltv_ns">56</episode-num>
+    <icon src="https://i.imgur.com/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20251123112329 +0000" stop="20251123112413 +0000" channel="toonami">
+    <title/>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20251123112413 +0000" stop="20251123113610 +0000" channel="toonami">
+    <title>Spider-Man</title>
+    <desc>Vine Part 1</desc>
+    <episode-num system="xmltv_ns">57</episode-num>
+    <icon src="https://i.imgur.com/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20251123113610 +0000" stop="20251123113641 +0000" channel="toonami">
+    <title/>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20251123113641 +0000" stop="20251123114839 +0000" channel="toonami">
+    <title>Spider-Man</title>
+    <desc>Vine Part 2</desc>
+    <episode-num system="xmltv_ns">58</episode-num>
+    <icon src="https://i.imgur.com/rtVhGpO.gif"/>
+  </programme>
+  <programme start="20251123114839 +0000" stop="20251123114858 +0000" channel="toonami">
+    <title>The Mighty Thor</title>
+    <desc>The Tomorrow Man, Return of Zarrko, Slave of Tomorrow Man</desc>
+    <episode-num system="xmltv_ns">10</episode-num>
+    <icon src="https://i.imgur.com/vARmo88.gif"/>
+  </programme>
+  <programme start="20251123114858 +0000" stop="20251123120124 +0000" channel="toonami">
+    <title/>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20251123120124 +0000" stop="20251123120700 +0000" channel="toonami">
+    <title/>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20251123120700 +0000" stop="20251123121300 +0000" channel="toonami">
+    <title>Fantastic Four</title>
+    <desc>Return Of the Mole Man</desc>
+    <episode-num system="xmltv_ns">12</episode-num>
+    <icon src="https://i.imgur.com/Stqcavd.gif"/>
+  </programme>
+  <programme start="20251123121300 +0000" stop="20251123122400 +0000" channel="toonami">
+    <title/>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20251123122400 +0000" stop="20251123122851 +0000" channel="toonami">
+    <title/>
+    <desc>No description available.</desc>
+  </programme>
+  <programme start="20251123122851 +0000" stop="20251123123643 +0000" channel="toonami">
+    <title>Birdman</title>
+    <desc>The Deadly Duplicator</desc>
+    <episode-num system="xmltv_ns">23</episode-num>
+    <icon src="https://i.imgur.com/cAylbtL.gif"/>
+  </programme>
+  <programme start="20251123123643 +0000" stop="20251123124541 +0000" channel="toonami">
+    <title>Birdman</title>
+    <desc>The Deadly Trio</desc>
+    <episode-num system="xmltv_ns">24</episode-num>
+    <icon src="https://i.imgur.com/cAylbtL.gif"/>
+  </programme>
+  <programme start="20251123124541 +0000" stop="20251123125340 +0000" channel="toonami">
+    <title>Space Ghost</title>
+    <desc>Lokar - King of the Killer Locusts</desc>
+    <episode-num system="xmltv_ns">15</episode-num>
+    <icon src="https://i.imgur.com/TKjCB1Z.gif"/>
+  </programme>
+  <programme start="20251123125340 +0000" stop="20251123130000 +0000" channel="toonami">
+    <title>Space Ghost</title>
+    <desc>Brago</desc>
+    <episode-num system="xmltv_ns">16</episode-num>
+    <icon src="https://i.imgur.com/TKjCB1Z.gif"/>
+  </programme>
+  <programme start="20251123130000 +0000" stop="20251123132419 +0000" channel="toonami">
+    <title>Earthworm Jim</title>
+    <desc>Sword of Righteousness</desc>
+    <episode-num system="xmltv_ns">7</episode-num>
+    <icon src="https://i.imgur.com/sQB7OBu.gif"/>
+  </programme>
+  <programme start="20251123132419 +0000" stop="20251123134842 +0000" channel="toonami">
+    <title>Static Shock</title>
+    <desc>Out of Africa</desc>
+    <episode-num system="xmltv_ns">42</episode-num>
+    <icon src="https://i.imgur.com/riIBi2T.gif"/>
+  </programme>
+  <programme start="20251123134842 +0000" stop="20251123141351 +0000" channel="toonami">
+    <title>Animaniacs</title>
+    <desc>Windsor Hassle / ...And Justice for Slappy</desc>
+    <episode-num system="xmltv_ns">45</episode-num>
+    <icon src="https://i.imgur.com/Iahwehb.gif"/>
+  </programme>
+  <programme start="20251123141351 +0000" stop="20251123143839 +0000" channel="toonami">
+    <title>The Tick</title>
+    <desc>The Tick vs. Dinosaur Neil</desc>
+    <episode-num system="xmltv_ns">3</episode-num>
+    <icon src="https://i.imgur.com/6LCtAKv.gif"/>
+  </programme>
+  <programme start="20251123143839 +0000" stop="20251123150045 +0000" channel="toonami">
+    <title>Freakazoid</title>
+    <desc>Mission: Freakazoid</desc>
+    <episode-num system="xmltv_ns">16</episode-num>
+    <icon src="https://i.imgur.com/qaSxxx8.gif"/>
+  </programme>
+  <programme start="20251123150045 +0000" stop="20251123152412 +0000" channel="toonami">
+    <title>Digimon</title>
+    <desc>BlackWarGreymon's Destiny</desc>
+    <episode-num system="xmltv_ns">101</episode-num>
+    <icon src="https://i.imgur.com/rM5a4vc.gif"/>
+  </programme>
+  <programme start="20251123152412 +0000" stop="20251123154856 +0000" channel="toonami">
+    <title>Monster Rancher</title>
+    <desc>Magic Stone Mayhem</desc>
+    <episode-num system="xmltv_ns">44</episode-num>
+    <icon src="https://i.imgur.com/8Q2xfrx.gif"/>
+  </programme>
+  <programme start="20251123154856 +0000" stop="20251123161351 +0000" channel="toonami">
+    <title>Yu-Gi-Oh!</title>
+    <desc>Battle for the Bronze (Part 2)</desc>
+    <episode-num system="xmltv_ns">136</episode-num>
+    <icon src="https://i.imgur.com/F5wIvS0.gif"/>
+  </programme>
+  <programme start="20251123161351 +0000" stop="20251123163829 +0000" channel="toonami">
+    <title>Roughnecks: Starship Troopers Chronicles</title>
+    <desc>Among Us</desc>
+    <episode-num system="xmltv_ns">32</episode-num>
+    <icon src="https://i.imgur.com/aRS8xZQ.gif"/>
+  </programme>
+  <programme start="20251123163829 +0000" stop="20251123170128 +0000" channel="toonami">
+    <title>Beast Machines</title>
+    <desc>Home Soil</desc>
+    <episode-num system="xmltv_ns">19</episode-num>
+    <icon src="https://i.imgur.com/9E7F997.gif"/>
+  </programme>
+  <programme start="20251123170128 +0000" stop="20251123172316 +0000" channel="toonami">
+    <title>The Real Adventures of Jonny Quest</title>
+    <desc>Cyberswitch</desc>
+    <episode-num system="xmltv_ns">20</episode-num>
+    <icon src="https://i.imgur.com/XOp3nEP.gif"/>
+  </programme>
+  <programme start="20251123172316 +0000" stop="20251123174523 +0000" channel="toonami">
+    <title>The Real Adventures of Jonny Quest</title>
+    <desc>Undersea Urgency</desc>
+    <episode-num system="xmltv_ns">21</episode-num>
+    <icon src="https://i.imgur.com/XOp3nEP.gif"/>
+  </programme>
+  <programme start="20251123174523 +0000" stop="20251123181209 +0000" channel="toonami">
+    <title>Jonny Quest</title>
+    <desc>The Dreadful Doll</desc>
+    <episode-num system="xmltv_ns">12</episode-num>
+    <icon src="https://i.imgur.com/1LkPW7k.gif"/>
+  </programme>
+  <programme start="20251123181209 +0000" stop="20251123183535 +0000" channel="toonami">
+    <title>Scooby Doo, Where Are You!</title>
+    <desc>Mystery Mask Mix-Up</desc>
+    <episode-num system="xmltv_ns">19</episode-num>
+    <icon src="https://i.imgur.com/i1ZedHL.gif"/>
+  </programme>
+  <programme start="20251123183535 +0000" stop="20251123190030 +0000" channel="toonami">
+    <title>Scooby Doo, Where Are You!</title>
+    <desc>Jeepers, It's the Creeper</desc>
+    <episode-num system="xmltv_ns">20</episode-num>
+    <icon src="https://i.imgur.com/i1ZedHL.gif"/>
+  </programme>
+  <programme start="20251123190030 +0000" stop="20251123192440 +0000" channel="toonami">
+    <title>Superman</title>
+    <desc>Feeding Time</desc>
+    <episode-num system="xmltv_ns">6</episode-num>
+    <icon src="https://i.imgur.com/hUYhp5I.gif"/>
+  </programme>
+  <programme start="20251123192440 +0000" stop="20251123194943 +0000" channel="toonami">
+    <title>Batman: The Animated Series</title>
+    <desc>The Cat and the Claw Part 1</desc>
+    <episode-num system="xmltv_ns">8</episode-num>
+    <icon src="https://i.imgur.com/nygJi6C.gif"/>
+  </programme>
+  <programme start="20251123194943 +0000" stop="20251123201245 +0000" channel="toonami">
+    <title>Batman Beyond</title>
+    <desc>Armory</desc>
+    <episode-num system="xmltv_ns">30</episode-num>
+    <icon src="https://i.imgur.com/4bXZkXc.gif"/>
+  </programme>
+  <programme start="20251123201245 +0000" stop="20251123203835 +0000" channel="toonami">
+    <title>Justice League</title>
+    <desc>Destroyer</desc>
+    <episode-num system="xmltv_ns">91</episode-num>
+    <icon src="https://i.imgur.com/IAoWUJN.gif"/>
+  </programme>
+  <programme start="20251123203835 +0000" stop="20251123210000 +0000" channel="toonami">
+    <title>Justice League</title>
+    <desc>Secret Origins: Part 1</desc>
+    <episode-num system="xmltv_ns">1</episode-num>
+    <icon src="https://i.imgur.com/IAoWUJN.gif"/>
+  </programme>
+  <programme start="20251123210000 +0000" stop="20251123212709 +0000" channel="toonami">
+    <title>GaoGaiGar</title>
+    <desc>His Name is ChoRyuJin</desc>
+    <episode-num system="xmltv_ns">6</episode-num>
+    <icon src="https://i.imgur.com/5rCBrb9.gif"/>
+  </programme>
+  <programme start="20251123212709 +0000" stop="20251123215324 +0000" channel="toonami">
+    <title>Big O</title>
+    <desc>Winter Night Phantom</desc>
+    <episode-num system="xmltv_ns">10</episode-num>
+    <icon src="https://i.imgur.com/0JJXLwO.gif"/>
+  </programme>
+  <programme start="20251123215324 +0000" stop="20251123222007 +0000" channel="toonami">
+    <title>Patlabor: The Mobile Police</title>
+    <desc>Kanuka's Report</desc>
+    <episode-num system="xmltv_ns">23</episode-num>
+    <icon src="https://i.imgur.com/lP8LKsc.gif"/>
+  </programme>
+  <programme start="20251123222007 +0000" stop="20251123225047 +0000" channel="toonami">
+    <title>Mobile Suit Gundam 0080: War in the Pocket</title>
+    <desc>Say it Ain't So, Bernie!</desc>
+    <episode-num system="xmltv_ns">5</episode-num>
+    <icon src="https://i.imgur.com/1wd7Qjr.gif"/>
+  </programme>
+  <programme start="20251123225047 +0000" stop="20251123231800 +0000" channel="toonami">
+    <title>Mobile Suit Gundam 0080: War in the Pocket</title>
+    <desc>War in the Pocket</desc>
+    <episode-num system="xmltv_ns">6</episode-num>
+    <icon src="https://i.imgur.com/1wd7Qjr.gif"/>
+  </programme>
+  <programme start="20251123231800 +0000" stop="20251123234103 +0000" channel="toonami">
+    <title>Celebrity Deathmatch</title>
+    <desc>Magic, Flashbacks and Pregnancies</desc>
+    <episode-num system="xmltv_ns">14</episode-num>
+    <icon src="https://i.imgur.com/asKW14D.gif"/>
+  </programme>
+  <programme start="20251123234103 +0000" stop="20251124000744 +0000" channel="toonami">
+    <title>Initial D</title>
+    <desc>Time's Almost Up!</desc>
+    <episode-num system="xmltv_ns">8</episode-num>
+    <icon src="https://i.imgur.com/WzNYM0K.gif"/>
+  </programme>
+  <programme start="20251124000744 +0000" stop="20251124003413 +0000" channel="toonami">
+    <title>Initial D</title>
+    <desc>Battle to the Limit! Eight-Six Versus GT-R</desc>
+    <episode-num system="xmltv_ns">9</episode-num>
+    <icon src="https://i.imgur.com/WzNYM0K.gif"/>
+  </programme>
+  <programme start="20251124003413 +0000" stop="20251124010006 +0000" channel="toonami">
+    <title>Fighting Spirit</title>
+    <desc>The White Fangs of the Wolf</desc>
+    <episode-num system="xmltv_ns">45</episode-num>
+    <icon src="https://i.imgur.com/q17pj8O.gif"/>
+  </programme>
+  <programme start="20251124010006 +0000" stop="20251124012435 +0000" channel="toonami">
+    <title>Fighting Spirit</title>
+    <desc>Be the Gazelle</desc>
+    <episode-num system="xmltv_ns">46</episode-num>
+    <icon src="https://i.imgur.com/q17pj8O.gif"/>
+  </programme>
+  <programme start="20251124012435 +0000" stop="20251124013635 +0000" channel="toonami">
+    <title>Powerpuff Girls Z</title>
+    <desc>A Comedy of Terrors / Beetle Battle</desc>
+    <episode-num system="xmltv_ns">23</episode-num>
+    <icon src="https://i.imgur.com/8hApzOA.gif"/>
+  </programme>
+</tv>
